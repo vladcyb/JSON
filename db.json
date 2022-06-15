@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "brand": "Samsung",
+    "model": "S7 Edge",
+    "code": "1047194"
+  },
+  {
+    "id": 2,
+    "brand": "iPhone",
+    "model": "6s",
+    "code": "120841"
+  },
+  {
+    "id": 3,
+    "brand": "Nokia",
+    "model": "6300",
+    "code": "19836151"
+  }
+]
